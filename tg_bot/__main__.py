@@ -45,7 +45,7 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my repo creator](https://github.com/ProIndians/Donate)."""
+It took lots of work for [my repo creator](https://github.com/FayasKKD/Donate)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
