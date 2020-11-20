@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/ProIndians",
+  "repository": "https://github.com/FayasKKD/Manager-Bot-English",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -53,7 +53,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://github.com/ProIndians/Donate"
+      "value": "https://github.com/FayasKKD/Donate"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
