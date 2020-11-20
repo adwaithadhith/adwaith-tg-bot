@@ -24,7 +24,7 @@ Im a Group Manager bot maintained by  [this person](tg://user?id={}).
 
 My future updates will be put into This Channel - @ProBotZ & My Support Group @ProHelpDesk and my main channel is @ProIndians.
 
-Click [here](https://github.com/ProIndians) to see my Source Code.
+Click [here](https://github.com/FayasKKD/Repositories) to see my Source Code.
 
 Use My Pro Version @ManagerProBot."""
 
